@@ -2,7 +2,7 @@ body {
     background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.3)), url("../Image/Pizza\ 1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
-    
+    height: 100vh;
 }
 
 h1 {
